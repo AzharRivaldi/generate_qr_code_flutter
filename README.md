@@ -1,4 +1,4 @@
-# generate_qr_code
+# Membuat Aplikasi Generate QR Code dengan Flutter
 
 # Tutorial Build with Android Studio
 https://youtu.be/1R1HHMvsot0
