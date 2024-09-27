@@ -4,9 +4,9 @@
 https://youtu.be/1R1HHMvsot0
 
 # Tutorial Build with Step by Step
-https://rivaldi48.blogspot.com/2024/09/tutorial-membuat-aplikasi-signature-pad-dengan-flutter.html
+https://rivaldi48.blogspot.com/2024/01/tutorial-membuat-aplikasi-generate-qr-code-flutter.html
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR_UCZqAE3dvMS0jbdDNAhWeXBMsbvFbkQyCxGMdPnCTgTVZQ6PHMpg53dWV4rj_ViA9Onl8fqammycdoQVzw_iixyBuhyphenhyphenDoMrBHRLSfHaZwDUuDUYOS3qcr4wfSnNoU4Cg9Dj4ykgep3OSOYV-Fxe9zGOg_lXdDQsgaT-eKaornF2zUVA1V4GkAW4veVS/s1280/Tutorial%20Membuat%20Aplikasi%20Signature%20Pad%20dengan%20Flutter.png" data-canonical-src="https://rivaldi48.blogspot.com/2024/09/tutorial-membuat-aplikasi-signature-pad-dengan-flutter.html" style="max-width:100%;">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNPrA3CCyP4rSNdxKhLHm-Zh6B88Y7tGvfKcCrpWuGEMoHGJceMxFX7oGDlJpqozQEa8bhqMqDS7jmtWH5Z7LO4qS54aK3sU6BDzSexFb2D2PxY4BTMbl5J2wwuV0lqXQGjegcuYdh65Kj2qozuTzKGWpu6kDakN_ro_Km1o2ZJb9mB8g3PwVZdjD-mQvd/s1280/Tutorial%20Membuat%20Aplikasi%20Generate%20QR%20Code%20dengan%20Flutter.png" data-canonical-src="https://rivaldi48.blogspot.com/2024/01/tutorial-membuat-aplikasi-generate-qr-code-flutter.html" style="max-width:100%;">
 
 ****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
 
